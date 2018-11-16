@@ -13,11 +13,9 @@ npm run dev
 
 # build for production with minification
 npm run build
-```
 
 # build for ts express server
 npm run tsc
-```
 
 # start express server
 npm run start
