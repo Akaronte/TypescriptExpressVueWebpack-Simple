@@ -21,4 +21,6 @@ npm run tsc
 npm run start
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Now listen on localhost:3000 static files
+
+Enter http://localhost:3000/welcome for express funcion route
