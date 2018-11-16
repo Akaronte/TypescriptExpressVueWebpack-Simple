@@ -2,7 +2,7 @@
 node_modules/
 !dist/index.html
 dist
-
+dist/*
 npm-debug.log
 yarn-error.log
 
