@@ -11,7 +11,9 @@
       "module": "commonjs",
       "moduleResolution": "node",
       "esModuleInterop": true,
- 
-    
+      "plugins": [
+        { "name": "typescript-tslint-plugin" }
+      ]
+  
     }
   }
